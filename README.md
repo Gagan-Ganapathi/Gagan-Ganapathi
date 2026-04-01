@@ -1,6 +1,6 @@
 👋 Hi, I'm Gagan Ganapathi
 
-💻 Software Developer | Backend Engineer | Aspiring AI Engineer
+💻 Software Developer | Backend Engineer | Gen AI Enthusiast
 🚀 Passionate about building scalable systems, microservices, and intelligent applications
 ## 🚀 About Me
 🔭 Currently working at UST as a Software Developer
@@ -18,8 +18,8 @@ C# Java Python SQL JavaScript HTML CSS
 
 ⚙️ Frameworks & Technologies
 
-.NET Core gRPC Microservices Kafka REST APIs Azure Entity Framework Core
-React.js Node.js Express.js
+.NET Core gRPC Microservices REST APIs Azure Entity Framework Core
+React.js Kafka MS SQL
 
 
 🤖 AI / Emerging Tech
@@ -44,51 +44,10 @@ Visual Studio VS Code GitHub Copilot
 🏗 Redesigned system into multi-tenant, multi-store architecture
 ## 📌Projects
 💰 Personal Finance Tracker
-
-Tech: .NET Core, Angular, SQL
-
-📊 Real-time tracking of income, expenses, savings
-🧱 Microservices-based architecture
-📈 Interactive dashboards (charts, analytics)
-
-
 🏠 Real Estate App
-
-Tech: React, Node.js, MongoDB, Redux
-
-🔍 Property listing & search platform
-⚡ Optimized APIs → 25% faster response
-🔐 JWT + Google OAuth authentication
-
-
 🤖 Felix - Virtual Assistant
-
-Tech: Python, JavaScript, Hugging Face API
-
-🎙 Voice + AI-powered assistant
-🔊 Speech recognition & text-to-speech
-⚡ Automated intelligent responses
-
-
 🤖 GenAI Chatbot (LLM-powered)
-
-Tech: Python, OpenAI API / LLM API
-
-💬 Built an interactive chatbot using Large Language Models for natural conversations
-⚡ Integrated API-based LLM responses for real-time query handling
-🧠 Implemented conversation flow handling for improved user interaction
-🎯 Designed for general-purpose Q&A and assistant-like capabilities
-
-
 📄 PDF Chat (RAG-based System)
-
-Tech: Python, LangChain, FAISS, OpenAI
-
-📂 Built a system to chat with PDF documents using LLMs
-🔎 Implemented RAG (Retrieval-Augmented Generation) for accurate answers
-⚡ Used vector database (FAISS) for semantic document search
-📈 Enabled context-aware responses from large documents
-
 
 ## 🏆 Certifications
 
@@ -102,6 +61,7 @@ Tech: Python, LangChain, FAISS, OpenAI
 💼 LinkedIn: https://linkedin.com/in/gagan-ganapathi0718/
 💻 GitHub: https://github.com/Gagan-Ganapathi
 📧 Email: gagan.g196016@gmail.com
+
 ## Other 
 ⚡ What Makes Me Different
 
