@@ -1,94 +1,120 @@
-🚀 Gagan Ganapathi
-💻 Software Developer | .NET Backend Engineer | GenAI Enthusiast
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gagan-Ganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
-👨‍💻 About Me
-🔭 Currently building scalable microservices at UST
-⚡ Specialized in .NET Core, gRPC & Distributed Systems
-📈 Boosted system performance by 40% using gRPC
-🤖 Exploring GenAI, LangChain, RAG, Vector DBs
-🎯 Targeting Product-based companies (Backend / AI roles)
-🧠 Tech Stack
-🚀 Backend & Systems
+👋 Hi, I'm Gagan Ganapathi
+
+💻 Software Developer | Backend Engineer | Aspiring AI Engineer
+🚀 Passionate about building scalable systems, microservices, and intelligent applications
+## 🚀 About Me
+🔭 Currently working at UST as a Software Developer
+⚙️ Specialized in .NET Core, Microservices, and gRPC
+📈 Improved system performance by 40% using gRPC-based services
+🛠 Built automation tools reducing manual effort by 80%+
+🌱 Exploring Gen AI, LangChain, RAG, and Vector Databases
+🎯 Goal: Transition into .Net + Gen AI Engineering roles
+a
+
+## 🛠 Skills
+💻 Languages
+
+C# Java Python SQL JavaScript HTML CSS
+
+⚙️ Frameworks & Technologies
+
+.NET Core gRPC Microservices Kafka REST APIs Azure Entity Framework Core
+React.js Node.js Express.js
 
 
+🤖 AI / Emerging Tech
+
+Gen AI LangChain RAG Vector Databases Prompt Engineering
+
+🛠 Tools
+
+Git GitHub Azure DevOps JIRA Postman
+Visual Studio VS Code GitHub Copilot
 
 
-
-
-
-
-🌐 Frontend & Web
-
-
-
-
-🧠 Gen AI & Emerging Tech
-
-
-
-
-
-
-
-
-☁️ Tools & Cloud
-
-
-
-
-
-
-💼 Experience
+## 💼 Experience
 🏢 Software Developer @ UST
 
 📅 Oct 2024 – Present
 
-🚀 Built high-performance microservices using .NET Core
-⚡ Reduced latency by 40% via gRPC integration
-🔄 Developed WCF → Protobuf automation tool (90% accuracy)
-📂 Engineered secure SFTP data pipeline + SQL storage
-🏗 Migrated system to multi-tenant, multi-store architecture
-📌 Featured Projects
+⚡ Designed scalable microservices architecture using .NET Core
+🚀 Implemented gRPC communication, reducing response time by 40%
+🔄 Built a WCF → Protobuf automation tool with 90% accuracy
+📂 Developed secure SFTP file processing pipeline with SQL persistence
+🏗 Redesigned system into multi-tenant, multi-store architecture
+## 📌Projects
 💰 Personal Finance Tracker
-📊 Real-time expense & savings tracking
-🧱 Microservices architecture
-📈 Interactive dashboards
-🏠 Real Estate Platform
-🔍 Advanced search & listing system
-⚡ Optimized APIs (25% faster)
-🔐 JWT + Google OAuth
-🤖 Felix AI Assistant
-🎙 Voice-enabled assistant
-🧠 Hugging Face API integration
-🔊 Speech-to-text & automation
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gagan-Ganapathi&show_icons=true&theme=radical" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan-Ganapathi&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-Ganapathi&layout=compact&theme=radical"/> </p>
-🏆 Achievements & Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gagan-Ganapathi&theme=radical&no-frame=true&margin-w=10"/> </p>
-📫 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/gagan-ganapathi0718" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:gagan.g196016@gmail.com"> <img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> </p>
+
+Tech: .NET Core, Angular, SQL
+
+📊 Real-time tracking of income, expenses, savings
+🧱 Microservices-based architecture
+📈 Interactive dashboards (charts, analytics)
+
+
+🏠 Real Estate App
+
+Tech: React, Node.js, MongoDB, Redux
+
+🔍 Property listing & search platform
+⚡ Optimized APIs → 25% faster response
+🔐 JWT + Google OAuth authentication
+
+
+🤖 Felix - Virtual Assistant
+
+Tech: Python, JavaScript, Hugging Face API
+
+🎙 Voice + AI-powered assistant
+🔊 Speech recognition & text-to-speech
+⚡ Automated intelligent responses
+
+
+🤖 GenAI Chatbot (LLM-powered)
+
+Tech: Python, OpenAI API / LLM API
+
+💬 Built an interactive chatbot using Large Language Models for natural conversations
+⚡ Integrated API-based LLM responses for real-time query handling
+🧠 Implemented conversation flow handling for improved user interaction
+🎯 Designed for general-purpose Q&A and assistant-like capabilities
+
+
+📄 PDF Chat (RAG-based System)
+
+Tech: Python, LangChain, FAISS, OpenAI
+
+📂 Built a system to chat with PDF documents using LLMs
+🔎 Implemented RAG (Retrieval-Augmented Generation) for accurate answers
+⚡ Used vector database (FAISS) for semantic document search
+📈 Enabled context-aware responses from large documents
+
+
+## 🏆 Certifications
+
+🥇 Microsoft Azure Fundamentals (AZ-900)
+💻  Full Stack Developemnt – Udemy
+🗄 Database Management System – Infosys
+🤖 GitHub Copilot for Development – Udemy
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/gagan-ganapathi0718/
+💻 GitHub: https://github.com/Gagan-Ganapathi
+📧 Email: gagan.g196016@gmail.com
+## Other 
 ⚡ What Makes Me Different
+
 🔥 Strong foundation in scalable backend systems
 ⚡ Real-world experience with performance optimization
 🤖 Early adopter of GenAI + LLM engineering
 🎯 Focused on product-based engineering mindset
+
 🧩 Currently Learning
+
 📚 System Design
 🤖 Building LLM-powered applications
 
-💡 “Building scalable systems today, exploring intelligent systems for tomorrow."
+⚡ Fun Fact
 
-<!--
-**Gagan-Ganapathi/Gagan-Ganapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building scalable backend systems and exploring how AI can enhance real-world applications 🚀
