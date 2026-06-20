@@ -4,11 +4,11 @@
 🚀 Passionate about building scalable systems, microservices, and intelligent applications
 ## 🚀 About Me
 🔭 Currently working at UST as a Software Developer
-⚙️ Specialized in .NET Core, Microservices, and gRPC
+⚙️ Specialized in Backened, Microservices, and gRPC
 📈 Improved system performance by 40% using gRPC-based services
 🛠 Built automation tools reducing manual effort by 80%+
 🌱 Exploring Gen AI, LangChain, RAG, and Vector Databases
-🎯 Goal: Transition into .Net + Gen AI Engineering roles
+🎯 Goal: Transition into Full Stack + Gen AI Engineering roles
 
 
 ## 🛠 Skills
@@ -22,7 +22,7 @@
 
 ⚡ Designed scalable microservices architecture using .NET Core
 🚀 Implemented gRPC communication, reducing response time by 40%
-🔄 Built a WCF → Protobuf automation tool with 90% accuracy
+🔄 Built a WCF → Protobuf automation tool with 95% accuracy
 📂 Developed secure SFTP file processing pipeline with SQL persistence
 🏗 Redesigned system into multi-tenant, multi-store architecture
 ## 📌Projects
